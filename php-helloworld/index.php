@@ -4,6 +4,6 @@ print "A change is a coming!\n";
 
 $data=array('RHEL', 'CENTOS', 'DEBIAN');
 foreach ($data as $d) {
-    print($d." is supported\n";
+    print($d." is supported\n");
 }
 ?>
